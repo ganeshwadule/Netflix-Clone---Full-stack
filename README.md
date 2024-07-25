@@ -81,6 +81,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-Ganesh Bandu Wadule - LinkedIn - ganesh.wadule@example.com
+Ganesh Bandu Wadule - LinkedIn - https://www.linkedin.com/in/ganesh-wadule-a70a2a253/
 
 Project Link: https://github.com/ganeshwadule/netflix-clone
